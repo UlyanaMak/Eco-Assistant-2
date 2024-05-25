@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTjUV/1TRsd0dcjRqa/8ufeq0lqtGZwsvjSuOG35KWrsxHCCpeB3cTVHrcoKJmTQrRE1e4gqJ1No48tbFAuXGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ulyam\\source\\repos\\Eco assistant\\Recycler.iOS\\Recycler.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.licensing\\25.2.5\\syncfusion.licensing.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.compression\\25.2.5\\syncfusion.xamarin.compression.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.core\\25.2.5\\syncfusion.xamarin.core.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.pdf\\25.2.5\\syncfusion.xamarin.pdf.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.sfbusyindicator\\25.2.5\\syncfusion.xamarin.sfbusyindicator.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.sfpdfviewer\\25.2.5\\syncfusion.xamarin.sfpdfviewer.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.sfprogressbar\\25.2.5\\syncfusion.xamarin.sfprogressbar.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.sfrangeslider\\25.2.5\\syncfusion.xamarin.sfrangeslider.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\syncfusion.xamarin.sftabview\\25.2.5\\syncfusion.xamarin.sftabview.25.2.5.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\ulyam\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2196\\xamarin.forms.maps.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
